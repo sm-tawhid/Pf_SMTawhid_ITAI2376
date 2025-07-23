@@ -58,5 +58,5 @@ This repository contains the complete portfolio of work completed in ITAI 2376: 
 
 ## Student Info
 
-**Name:** SM Tawhid
-**Course:** ITAI 2376 - Deep Learning
+- **Name:** SM Tawhid
+- **Course:** ITAI 2376 - Deep Learning
