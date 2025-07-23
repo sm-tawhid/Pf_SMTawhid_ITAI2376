@@ -1,6 +1,6 @@
 # ITAI 2376 Final Portfolio - SM Tawhid
 
-This repository contains the complete portfolio of work completed in ITAI 2376: Deep Learning, under the instruction of Professor \[Name]. The course covered a wide range of foundational and applied topics in deep learning, and each module built upon the previous to culminate in a solo final project.
+This repository contains the complete portfolio of work completed in ITAI 2376: Deep Learning. The course covered a wide range of foundational and applied topics in deep learning, and each module built upon the previous to culminate in a solo final project.
 
 ## Portfolio Structure
 
