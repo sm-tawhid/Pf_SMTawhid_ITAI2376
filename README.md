@@ -51,8 +51,8 @@ This repository contains the complete portfolio of work completed in ITAI 2376: 
 
 ### 📁 Final Presentation
 
-**File:** `Pf_SMTawhid_ITAI2376.pdf`
-A summary slide deck that walks through all modules, highlights the final project, and reflects on the learning journey across ITAI 2376.
+- **File:** `Pf_SMTawhid_ITAI2376.pdf`
+- **Description**: A summary slide deck that walks through all modules, highlights the final project, and reflects on the learning journey across ITAI 2376.
 
 ---
 
